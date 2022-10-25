@@ -1,0 +1,44 @@
+body {
+    background-color: transparent;
+    min-width: 350px;
+    max-width: auto;
+  }
+  
+  .wrapper {
+    border: 1px solid;
+    margin: 30px;
+  }
+  
+  .main h1 {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    max-height: 50%;
+    margin-top: 0px;
+  }
+  .main {
+    background-color: rgb(245, 207, 157);
+  }
+  .header_btn {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    max-height: 50%;
+    padding-top: 0px;
+  }
+  
+  .btn {
+    border-radius: 8px;
+    background-color: orange;
+    padding: 7px 20px;
+    color: white;
+  }
+  span {
+    padding-top: 8px;
+  }
+  .btn:hover {
+    color: darkorange;
+    background-color: white;
+    /* font-weight: bold; */
+  }

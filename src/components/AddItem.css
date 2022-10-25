@@ -1,0 +1,69 @@
+body {
+    background-color: transparent;
+    min-width: 350px;
+    max-width: auto;
+  }
+  
+  .main_add h1 {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    max-height: 50%;
+    margin-top: 0px;
+  }
+  .main_add {
+    background-color: rgb(245, 207, 157);
+  }
+  
+  .header_add_btn {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    max-height: 50%;
+  }
+  
+  .btn_Back {
+    border-radius: 8px;
+    background-color: orange;
+    padding: 0 15px;
+    color: white;
+  }
+  .btn_Back:hover {
+    background-color: white;
+    color: orange;
+  }
+  .input {
+    font-weight: bold;
+    padding: 10px;
+    padding-top: 15px;
+  }
+  
+  .input input {
+    width: 98%;
+    height: 20px;
+  }
+  
+  .myInput {
+    display: block;
+  }
+  
+  .btn_add {
+    margin: 10px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+  }
+  
+  .btn_add:hover {
+    background-color: white;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  /* .footer {
+    text-align: center;
+    padding:auto;
+    color: blue;
+  } */
