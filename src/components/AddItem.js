@@ -31,7 +31,7 @@ const AddItem = () => {
             Go Back
           </button>
           <span style={{ paddingBottom: "1.0rem" , fontWeight:"bold" , fontSize:"2.5rem"}}> Add Items </span>
-          <span style={{ visibility: "hidden" }}> </span>
+          <span style={{ visibility: "hidden" }}> Hidden </span>
         </div>
       </div>
 
