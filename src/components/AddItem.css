@@ -9,7 +9,7 @@ body {
     color: white;
     text-align: center;
     padding: 2.0rem;
-    max-height: 50%;
+/*     max-height: 50%; */
     margin-top: 0px;
   }
   .main_add {
@@ -20,7 +20,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 1.5rem;
-    max-height: 50%;
+/*     max-height: 50%; */
   }
   
   .btn_Back {
