@@ -1,14 +1,14 @@
 body {
     background-color: transparent;
     min-width: 350px;
-    max-width: auto;
+/*     max-width: auto; */
   }
   
   .main_add h1 {
     background-color: orange;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 2.0rem;
     max-height: 50%;
     margin-top: 0px;
   }
@@ -19,14 +19,14 @@ body {
   .header_add_btn {
     display: flex;
     justify-content: space-between;
-    padding: 15px;
+    padding: 1.5rem;
     max-height: 50%;
   }
   
   .btn_Back {
-    border-radius: 8px;
+    border-radius: 0.8rem;
     background-color: orange;
-    padding: 0 15px;
+    padding: 0 1.5rem;
     color: white;
   }
   .btn_Back:hover {
@@ -35,13 +35,13 @@ body {
   }
   .input {
     font-weight: bold;
-    padding: 10px;
-    padding-top: 15px;
+    padding: 1.0rem;
+    padding-top: 1.5rem;
   }
   
   .input input {
     width: 98%;
-    height: 20px;
+    height: 2.0rem;
   }
   
   .myInput {
@@ -49,11 +49,11 @@ body {
   }
   
   .btn_add {
-    margin: 10px;
-    padding: 10px;
+    margin: 1.0rem;
+    padding: 1.0rem;
     background-color: blue;
     color: white;
-    border-radius: 8px;
+    border-radius: 0.8rem;
   }
   
   .btn_add:hover {
