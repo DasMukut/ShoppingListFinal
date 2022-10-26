@@ -30,7 +30,7 @@ const ItemList = () => {
         </div>
       </div>
 
-      <div style={{ textAlign: "center", marginTop: "20px" }}>
+      <div style={{ textAlign: "center", marginTop: "2.0rem" }}>
         {items.map((item) => (
           <Item key={item.id} item={item} />
         ))}
