@@ -30,7 +30,7 @@ const AddItem = () => {
           <button className="btn_Back" onClick={handlebuttonToggle1}>
             Go Back
           </button>
-          <span style={{ paddingBottom: "1.0rem" }}> Add Items </span>
+          <span style={{ paddingBottom: "1.0rem" font-weight:"bold" }}> Add Items </span>
           <span style={{ visibility: "hidden" }}> </span>
         </div>
       </div>
