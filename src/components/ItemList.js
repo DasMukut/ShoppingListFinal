@@ -23,7 +23,7 @@ const ItemList = () => {
           <button className="btn" onClick={handlebuttonToggle}>
             Go Back
           </button>
-          <span style={{fontWeight:"bold", fontSize:"2.5rem"}}>Daily Groceries</span>
+          <span style={{fontWeight:"bold", fontSize:"1.5rem"}}>Daily Groceries</span>
           <button className="btn" onClick={handlebuttonAdd}>
             +Add Item
           </button>
